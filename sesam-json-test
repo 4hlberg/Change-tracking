@@ -5,14 +5,14 @@
     "age": 28,
     "gender": "male",
     "hobby": "climbing",
-    "height": "182cm",
+    "heighta": "182cm",
     "weight": "secret"
   },
   {
     "name": "john",
     "id": 2,
     "age": 103,
-    "gender": "male",
+    "gender": "males",
     "hobby": "sleeping",
     "height": "155cm",
     "weight": 99
