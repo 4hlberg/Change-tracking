@@ -1,0 +1,29 @@
+[
+  {
+    "name": "philip",
+    "id": 1,
+    "age": 28,
+    "gender": "male",
+    "hobby": "climbing",
+    "height": "182cm",
+    "weight": "secret"
+  },
+  {
+    "name": "john",
+    "id": 2,
+    "age": 103,
+    "gender": "male",
+    "hobby": "sleeping",
+    "height": "155cm",
+    "weight": 99
+  },
+  {
+    "name": "frida",
+    "id": 3,
+    "age": 44,
+    "gender": "female",
+    "hobby": "boxing",
+    "height": "190cm",
+    "weight": 89
+  }
+]
